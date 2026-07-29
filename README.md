@@ -6,12 +6,12 @@
 - 💡 Interests: Creating & developing desktop software for all OS.
 -  Goal: I'm here to satisfy my passion for software development!
 
-## 💻 the program Languages i used
-- 🐍 Python
-- C / C++
-- 🦀 Rust (My absolute favorite! ❤️)
-- ☕ Java
-- ...and others!
+## 💻 Tech stack & program languages
+- ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&
+- ![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=w
+- ![Rust](https://img.shields.io/badge/Rust-1.70-orange?style=for-the-badge&logo=rust&logoColor=w
+- ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java&logoColor=white)
+- ...others...
 
 ##  Currently Working On
 - Learning algorithms with C/C++ on LQDOJ.
@@ -23,13 +23,6 @@
 ## Feeling
 - *Happy*
 
-## 💻 Laptop i using!
--  Name lap: Lenovo LOQ 15IAX9E
--  CPU: 12th Gen Intel(R) core i5-12450HX
--  Ram: 16GB DDR5
--  Made of year: 2025
--  GPU: NVIDIA RTX 3050 6GB LAPTOP & Intel UHD Graphic
--  Disk: SAMSUNG SSD 520GB
 
 ## 📬 Connect with Me
 -  Email: ducps125@gmail.com
