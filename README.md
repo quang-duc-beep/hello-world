@@ -20,11 +20,6 @@
 - learning Git & GitHub
 - learning math in 11th grade
 
-## 📬 Connect with Me
--  Email: ducps125@gmail.com
--  Facebook: https://www.facebook.com/Qducbug/
--  Linkedin: https://www.linkedin.com/in/d%C6%B0c-quang-00170036a/
-
 ## Feeling
 - *Happy*
 
@@ -35,3 +30,8 @@
 -  Made of year: 2025
 -  GPU: NVIDIA RTX 3050 6GB LAPTOP & Intel UHD Graphic
 -  Disk: SAMSUNG SSD 520GB
+
+## 📬 Connect with Me
+-  Email: ducps125@gmail.com
+-  Facebook: https://www.facebook.com/Qducbug/
+-  Linkedin: https://www.linkedin.com/in/d%C6%B0c-quang-00170036a/
