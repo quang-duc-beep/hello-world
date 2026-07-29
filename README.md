@@ -6,12 +6,11 @@
 - 💡 Interests: Creating & developing desktop software for all OS.
 -  Goal: I'm here to satisfy my passion for software development!
 
-## 💻 Tech stack & program languages
-- ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&
-- ![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B&logoColor=w
-- ![Rust](https://img.shields.io/badge/Rust-1.70-orange?style=for-the-badge&logo=rust&logoColor=w
-- ![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=java&logoColor=white)
-- ...others...
+## 💻 program languages i work with
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1.70-DEA584?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ##  Currently Working On
 - Learning algorithms with C/C++ on LQDOJ.
